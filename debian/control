@@ -1,0 +1,12 @@
+Source: nerd-font-iosevka
+Section: misc
+Priority: optional
+Maintainer: naib864 <naib864@naib.top>
+Build-Depends: debhelper (>= 10.3),
+Build-Depends-Indep:
+
+Package: nerd-font-iosevka
+Architecture: all
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+Description: Iosevka Nerd Font
