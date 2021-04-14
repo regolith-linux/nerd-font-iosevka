@@ -1,3 +1,9 @@
+nerd-font-iosevka (1.1.0-1) bionic; urgency=medium
+
+  * Packaging for PPA 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Tue, 13 Apr 2021 21:34:25 -0700
+
 nerd-font-iosevka (1.1.0) unstable; urgency=medium
 
   * Added copyright stuff
